@@ -1,2 +1,2 @@
 # trabajos-escolares
-En este repositorio voy a subir código de algunos alumnos y alumnas
+En este repositorio voy a subir codigo de alumnos y alumnas
